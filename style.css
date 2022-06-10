@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+
+header{
+    width: 100vw;
+    height: 60px;
+    background-color: rgba(40, 214, 40, 0.838);
+    margin: 0px;
+}
+
+h1{
+    margin-top: 10px;
+    display: inline-block;
+    width: 400px;
+    margin-left: 20px;
+}
+
+div.menu{
+    display: inline-block;
+    text-align: right;
+    margin-left: 550px;
+    margin-top: 0;
+}
+
+li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.texto{
+    width: 70%;
+    margin: auto;
+}
+
+.cajas{
+    width: 100vw;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.caja1{
+    margin-top: 0;
+    margin-left: 200px;
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: rgba(248, 242, 242, 0.699);
+}
+
+.caja2{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    margin-top: 0;
+    background-color: rgba(248, 242, 242, 0.699);
+}
+
+.caja3{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    margin-top: 0;
+    background-color: rgba(248, 242, 242, 0.699);
+}
+
+.textoprincipal{
+    margin: 0;
+    margin-top: 20px;
+    text-align: justify;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.subtexto{
+    margin: 0;
+    margin-top: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
